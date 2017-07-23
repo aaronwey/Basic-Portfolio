@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+#about_me {
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding: 40px;
+  margin: 0;
+  text-align: center;
+  background: #eee;
+}
+
+h1 { color: red;
+}
